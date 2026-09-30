@@ -40,3 +40,5 @@ Em operações de doca de bancos de alimentos, itens perecíveis correm risco co
 ## 🚀 Como Visualizar o Projeto
 
 Por se tratar do repositório inicial da solução e documentação do MVP, os protótipos de interface e os arquivos de código-fonte estão organizados na pasta principal deste repositório.
+
+*Status do Projeto: MVP em fase de validação operacional.*
